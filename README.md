@@ -32,6 +32,3 @@ Open `frontend/index.html` in browser
 - `POST /api/tasks` - Create task
 - `PUT /api/tasks/:id` - Update task
 - `DELETE /api/tasks/:id` - Delete task
-
-## 👨‍💻 Author
-fasihaf773-dotcom
